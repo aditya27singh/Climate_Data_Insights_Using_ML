@@ -32,6 +32,7 @@ Understanding sustainability clusters offers a data-driven lens for comparing co
  1. Extend clustering to time-series forecasting of sustainability indicators.
  2. Integrate deep learning models for CO₂ emission prediction.
  3. Compare results against real-world policy interventions.
+ 4. Reproduce a research paper in this domain to benchmark my work against existing academic findings and gain deeper research-oriented insights.
 
 ## Tech Stack
  1. Python: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
