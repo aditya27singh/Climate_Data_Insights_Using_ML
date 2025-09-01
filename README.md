@@ -6,8 +6,8 @@ This project investigates global sustainability patterns by analyzing CO₂ emis
 ## Overview
 This project is the second installment in a structured research series designed as part of my journey towards AI/ML research internships.
 
-Project 1: Climate and Sustainability Trends — Data Cleaning, Exploration, and Visualization
-Project 2 (this project): Clustering and Anomaly Detection — Unsupervised Learning for Pattern Discovery
+1. Project 1: Climate and Sustainability Trends — Data Cleaning, Exploration, and Visualization
+2. Project 2 (this project): Clustering and Anomaly Detection — Unsupervised Learning for Pattern Discovery
 
 In this project, I extend my earlier exploratory analysis with clustering and anomaly detection to uncover latent patterns in sustainability data.
 
