@@ -21,7 +21,7 @@ In this project, I extend my earlier exploratory analysis with clustering and an
   1. Countries are naturally grouped into three clusters:
       * Mid-Industrializing Economies – moderate GDP, growing CO₂ emissions, and relatively low renewable energy adoption.
       * Developed Transitional Economies – strong GDP per capita, mixed energy strategies, and visible progress in reducing emissions.
-      * High-Emission Economies – advanced economies with very high CO₂ emissions despite robust economic growth.
+      * High-Emission Economies – advanced economies with very high CO₂ emissions despite lower economic growth as compared to advanced economies.
   3. Renewable energy share played a central role in distinguishing clusters.
   4. Anomaly detection highlighted countries experiencing rapid shifts in sustainability metrics or facing unique developmental pathways.
 
